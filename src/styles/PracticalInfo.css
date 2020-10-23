@@ -1,0 +1,29 @@
+.PracticalInfoContainer {
+
+    margin: 20px;
+    padding: 20px;
+
+    border: solid rgb(204, 204, 204) 1px;
+    border-radius: 20px;
+}
+.active {
+    display: block;
+}
+
+.disabled {
+    display: none;
+}
+
+.TitleContainer {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.EditButton {
+    margin: auto 10px auto auto;
+}
+
+.Title {
+    margin: auto auto auto 10px;
+}
